@@ -1,5 +1,5 @@
 <div align="center">
-  <!--<img src="CubitosLogo.png"/> // TODO: UPLOADING ASSETS-->
+  <img src="CubitosLogo.png"/>
   <h1 align="center">Cubitos Team</h1>
   <h4 align="center">An indie fangame development team dedicated to delivering fresh and distinctive content, all with our signature touch of quality.</h4>
   <h4> </h4>
